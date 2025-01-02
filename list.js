@@ -22,4 +22,30 @@ const DUNDADUNDADUN = [
     season: "2",
     episode: "50",
   },
+  {
+    quote: "you can walk? yep! and unfortunately you can't anymore!",
+    season: "",
+    episode: "",
+  },
+  {
+    quote:
+      "I dont know what that secret ingredient is but the customers just love your burgers! The secret ingredient is love",
+    season: "",
+    episode: "",
+  },
+  {
+    quote: "I can't lose this job I only have 37 dollars!",
+    season: "5",
+    episode: "27",
+  },
+  {
+    quote: "79% of stair accidents happen on the stairs.",
+  },
+  {
+    quote: "Out of my way, my kids are in danger... of becoming their father!",
+  },
+  {
+    quote:
+      "I think we all know where this is going so lets just skip to the end.",
+  },
 ];
